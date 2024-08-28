@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    font-family: "Changa";
+}
+
+.hgreen{
+    color: rgb(0,147,73);
+}
+.hblue{
+    color: rgb(0,57,166);
+}
+.hred{
+    color: rgb(213,43,30
+    );
+}
+#horange{
+    color: rgb(222, 150, 7);
+}
+
+#khabib-ig{
+    text-align: center;
+    font-family: "Bungee Tint";
+    background-color: pink;
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin: 500px 50px 500px 50px;
+
+
+}
+
+
+
+
+
+.khabibi{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+
+}
+
+h2{
+    text-align: center;
+    font-family: "Overpass";
+}
+
+p{
+    text-align: center;
+    font-family: "Shadows Into Light";
+    color: darkorchid;
+}
